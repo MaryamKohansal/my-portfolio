@@ -42,7 +42,7 @@ Portfolio: (Add your Vercel link here)
 
 ## Author
 
-Maryam Kohansal\
+Maryam Kohansal
 
 - B.Sc. in Computer Science – RPTU Kaiserslautern (Graduated)
 
