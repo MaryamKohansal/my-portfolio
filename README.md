@@ -43,7 +43,9 @@ Portfolio: (Add your Vercel link here)
 ## Author
 
 Maryam Kohansal\
-Computer Science Graduate\ RPTU Kaiserslautern/
-M. Sc. Computer Science\ hochschule Kaiserslautern
+
+- B.Sc. in Computer Science – RPTU Kaiserslautern (Graduated)
+
+- M.Sc. in Computer Science – Hochschule Kaiserslautern (Currently pursuing)
 
 
