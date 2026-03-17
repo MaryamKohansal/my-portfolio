@@ -1,4 +1,4 @@
-import profilePic from "./assets/photo.JPG";
+import profilePic from "./assets/photo.jpg";
 import { useEffect } from "react";
 
 function Content({ language }) {
@@ -28,7 +28,7 @@ function Content({ language }) {
     <div className="content">
       <div className="photo-container">
         <div className="photo-wrapper">
-          <img className="photo" src={profilePic} alt="profile-photo" />
+          <img className="photo" src={profilePic} alt="photo" />
           <div className="photo-blur"></div>
         </div>
         <h3 className="title">Maryam Kohansal</h3>
