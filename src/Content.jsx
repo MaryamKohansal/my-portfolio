@@ -4,6 +4,9 @@ import { useEffect } from "react";
 function Content({ language }) {
   useEffect(() => {
     document.body.classList.add("home-page");
+    return () => {
+    document.body.classList.remove("home-page");
+  };
   }, []);
 
   const txt = {

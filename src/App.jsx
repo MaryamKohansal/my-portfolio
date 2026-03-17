@@ -14,14 +14,14 @@ function App() {
     <BrowserRouter>
       <div className="app">
         <Header language={language} setLanguage={setLanguage} />
-        
+        <main className="main-content">
           <Routes>
             <Route path="/" element={<Content language={language} />} />
             <Route path="/contact" element={<Contact language={language} />} />
             <Route path="/resume" element={<Resume language={language} />} />
             <Route path="/projects" element={<Projects language={language} />} />
           </Routes>
-        
+        </main>
         <Footer language={language} />
       </div>
     </BrowserRouter>

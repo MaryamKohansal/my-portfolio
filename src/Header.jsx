@@ -32,7 +32,7 @@ function Header({ language, setLanguage }) {
         <Link to="/contact">{text[language].contact}</Link>
         <Link to="/projects">{text[language].projects}</Link>
         <Link to="/Resume">{text[language].resume}</Link>
-        <a href="https://github.com/MaryamKohansal" target="_blank">
+        <a href="https://github.com/MaryamKohansal" target="_blank" rel="noopener noreferrer">
           <FaGithub className="github-icon" size={25} />
         </a>
       </nav>
